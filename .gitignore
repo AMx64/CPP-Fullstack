@@ -1,0 +1,16 @@
+# === Ignore compiled binaries ===
+*.exe
+*.out
+*.o
+*.obj
+
+# === Ignore editor-specific files ===
+.vscode/
+*.cbp
+*.layout
+*.user
+*.depend
+*.pro.user
+
+# === Ignore build folders ===
+build/
