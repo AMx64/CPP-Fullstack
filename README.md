@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 C++ Mastery: Level 0–10 Roadmap</h1>
+  <h1>🚀 C++ Mastery: Level 0–6 Roadmap</h1>
 </div>
 <p>
 This repository documents my journey of learning C++ to build a deeper understanding of programming fundamentals, low-level control, and system-level thinking — going beyond what high-level languages like Python typically abstract away
